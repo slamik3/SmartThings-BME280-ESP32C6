@@ -218,7 +218,7 @@ CLI se zeptá na potřebný kanál a hub, případně použije již uložené v�
 
 ## Autor
 
-**MatejSlama**
+**Matěj Sláma**
 
 Vlastní vývoj Zigbee senzoru a SmartThings Edge Driveru.
 
