@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "MatejSlama/XIAO-C6-BME280"
+    deviceLabel: XIAO ESP32-C6 BME280
+    manufacturer: MatejSlama
+    model: XIAO-C6-BME280
+    deviceProfileName: xiao-bme280

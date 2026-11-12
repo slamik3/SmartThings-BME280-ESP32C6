@@ -1,0 +1,6 @@
+name: 'XIAO ESP32-C6 BME280'
+packageKey: 'matej-slama-xiao-bme280'
+permissions:
+  zigbee: {}
+description: "Zigbee senzor teploty, vlhkosti a tlaku (XIAO ESP32-C6 + BME280). Autor: Matěj Sláma"
+vendorSupportInformation: "Matěj Sláma"
